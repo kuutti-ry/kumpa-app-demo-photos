@@ -1,6 +1,6 @@
-# kuutti-app-demo-photos
+# kumpa-app-demo-photos
 
-Test and demo pictures for [Kuutti](https://github.com/kuutti-ry/kuutti-app), a free, non-commercial dating app for Finland: the faces of the demo personas and of the cast, the pictures the moderation queue is meant to refuse, and later a pool of faces for the synthetic population.
+Test and demo pictures for [Kumpa](https://github.com/kuutti-ry/kumpa-app), a free, non-commercial dating app for Finland: the faces of the demo personas and of the cast, the pictures the moderation queue is meant to refuse, and later a pool of faces for the synthetic population.
 
 > **Every picture here is AI-generated, and nobody in them is a real person.** They are test data. Never use them as anybody's profile, on any service, nor in marketing or a store listing. `PROVENANCE.md` names the model, the prompt and the date of each file; the pictures were made with Google's Gemini API, which marks its images with an invisible SynthID watermark.
 
@@ -41,7 +41,7 @@ Forty-eight invented people of three pictures each, under `faces/cast/<key>/`: t
 1. **Generated pictures only**, from a generator whose terms allow this use. Never a stock photo, never a picture scraped from anywhere, never a photo of a real person, a team member included.
 2. **Every file has its row in `PROVENANCE.md`**: where it came from, when, under which terms. A picture without one is removed.
 3. **Nothing personal, nothing secret.** No location in EXIF other than the one test file that shows the upload pipeline strips it, which carries an invented place at sea.
-4. **A release is a tag**, and a tag is never moved: a changed set is a new tag, and a removal request is the one reason an old tag is deleted. The app pins one by tag and by the SHA-256 of every file (`packages/db/src/seed/photos-manifest.ts`, the same list as `manifest.json` here) and fetches `https://github.com/kuutti-ry/kuutti-app-demo-photos/archive/refs/tags/<tag>.tar.gz`; a file whose checksum differs is refused.
+4. **A release is a tag**, and a tag is never moved: a changed set is a new tag, and a removal request is the one reason an old tag is deleted. The app pins one by tag and by the SHA-256 of every file (`packages/db/src/seed/photos-manifest.ts`, the same list as `manifest.json` here) and fetches `https://github.com/kuutti-ry/kumpa-app-demo-photos/archive/refs/tags/<tag>.tar.gz`; a file whose checksum differs is refused.
 
 ## Layout
 
