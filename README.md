@@ -18,14 +18,16 @@ The key is the persona's id: the folder of its pictures (`faces/<key>/`), the lo
 
 | key | name | born | test bank | in the demo | pictures |
 |---|---|---|---|---|---|
-| `aino` | Aino Virtanen | 29.12.1992 | Nordea `DEMOUSER2` | newcomer: the walkthrough | 5 |
+| `aino` | Aino Virtanen | 29.12.1992 | Nordea `DEMOUSER2` | a complete profile | 5 |
 | `mikael` | Mikael Lindqvist | 1.1.1970 | Ålandsbanken `12345678` | newcomer, in Swedish | 4 |
+| `sofia` | Sofia Heino | 18.4.1993 | mock bank only | newcomer: the walkthrough | 5 |
 | `sanna` | Sanna Korhonen | 17.6.1977 | Nordea `DEMOUSER4` | a complete profile | 5 |
-| `onni` | Onni Korhonen | 1.2.2000 | Nordea `DEMOUSER1` | registered, never onboarded | 8 |
+| `onni` | Onni Korhonen | 1.2.2000 | Nordea `DEMOUSER1` | a complete profile of the first four, and the camera roll of the onboarding flow | 8 |
 | `noa` | Noa Salmi | 3.8.1983 | Nordea `DEMOUSER3` | a profile with two photos, and the moderation queue | 2, and `negatives/exif-location.jpg` |
 | `kerttu` | Kerttu Åkerlund | 1.2.1980 | Säästöpankki `22222222` | accepted an older wording of the terms | 4 |
-| `tapio` | Tapio Heikkinen | 7.7.1970 | OP, prefilled | banned | 3 |
-| `ilona` | Ilona Öhman | 1.1.1970 | Aktia, prefilled | deleted her account | 3 |
+| `tapio` | Tapio Heikkinen | 7.7.1970 | OP, prefilled | a complete profile | 3 |
+| `ilona` | Ilona Öhman | 1.1.1970 | Aktia, prefilled | a complete profile | 3 |
+| `helmi` | Helmi Mäkelä | 1.1.1932 | Mobiilivarmenne emulator, prefilled | a complete profile | 3 |
 | `iida` | Iida Mattila | 11.3.1990 | mock bank only | a complete profile, and a round for the day | 3 |
 | `henna` | Henna Laaksonen | 27.5.1989 | mock bank only | a card in Iida's round, who liked her | 2 |
 | `katja` | Katja Rautio | 19.11.1989 | mock bank only | a card in Iida's round | 2 |
@@ -34,7 +36,7 @@ The key is the persona's id: the folder of its pictures (`faces/<key>/`), the lo
 
 ## The cast
 
-Forty-eight invented people of three pictures each, under `faces/cast/<key>/`: the cards a demo account goes through. Nobody signs in as them, and none has a code or a test bank. The key is the folder, and it is never renamed or reused. Their names and what each picture shows are in `PROVENANCE.md`.
+Fifty-six invented people of three pictures each, under `faces/cast/<key>/`: the cards a demo account goes through. Nobody signs in as them, and none has a code or a test bank. The key is the folder, and it is never renamed or reused. Their names and what each picture shows are in `PROVENANCE.md`.
 
 ## Rules
 

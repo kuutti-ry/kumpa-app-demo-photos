@@ -100,6 +100,21 @@
     "purpose": "cast:anders"
   },
   {
+    "path": "faces/cast/anneli/1.jpg",
+    "sha256": "ca213f02431431b7affc4e582e91423389346fa10487334203cdc438e5c9db63",
+    "purpose": "cast:anneli"
+  },
+  {
+    "path": "faces/cast/anneli/2.jpg",
+    "sha256": "c9c8cf37d72ae9d25103de7a08102fab3ad1c964b3c755a6a312ac979bf6b891",
+    "purpose": "cast:anneli"
+  },
+  {
+    "path": "faces/cast/anneli/3.jpg",
+    "sha256": "3880dbc4ebe5736e9b6da5e75109013d517169820e59ade37ef1159e12bb5ef6",
+    "purpose": "cast:anneli"
+  },
+  {
     "path": "faces/cast/antero/1.jpg",
     "sha256": "67cbab7eeef11ee908d7790835c06d6bb7587c5aa68ef0d95c6c81c3687404e2",
     "purpose": "cast:antero"
@@ -158,6 +173,21 @@
     "path": "faces/cast/eemil/3.jpg",
     "sha256": "1ec6805c83762e3fbbae6b3a6177b44d8a9b8c74d85c4d087a6dab01478b7613",
     "purpose": "cast:eemil"
+  },
+  {
+    "path": "faces/cast/eino/1.jpg",
+    "sha256": "cb7bf6c2c63e4c385cc37a3e440889939630223a8e9987b9e9728ec033474b7d",
+    "purpose": "cast:eino"
+  },
+  {
+    "path": "faces/cast/eino/2.jpg",
+    "sha256": "c11d1a4e50fc6cc2d7f62c974ea8166d355e77e6e06cb008a2c3259ab7289963",
+    "purpose": "cast:eino"
+  },
+  {
+    "path": "faces/cast/eino/3.jpg",
+    "sha256": "7bc5a911bd1173fcd42ec0336974bf416b2e70bd31668fee706a660f3e5d41a6",
+    "purpose": "cast:eino"
   },
   {
     "path": "faces/cast/elias/1.jpg",
@@ -295,6 +325,21 @@
     "purpose": "cast:juha"
   },
   {
+    "path": "faces/cast/kaarlo/1.jpg",
+    "sha256": "9a37941997835c368a28f36f2b01ebc01a2ab70a765d2b681aa57e9994cc7190",
+    "purpose": "cast:kaarlo"
+  },
+  {
+    "path": "faces/cast/kaarlo/2.jpg",
+    "sha256": "0ba41d3a192fa85e5d8f7e6824958881c457d5ca039cad46c4a35c147f4121a5",
+    "purpose": "cast:kaarlo"
+  },
+  {
+    "path": "faces/cast/kaarlo/3.jpg",
+    "sha256": "248c88ebb05b77d81bc3a5f84df3428af8f999c6440c1390d43649ebed22e66c",
+    "purpose": "cast:kaarlo"
+  },
+  {
     "path": "faces/cast/kalle/1.jpg",
     "sha256": "9f64f990536669fd9349ac511a56719dd8dbcf8272258b1096e00c0c21fad50b",
     "purpose": "cast:kalle"
@@ -323,6 +368,21 @@
     "path": "faces/cast/karim/3.jpg",
     "sha256": "0d1589659367e5c9b4c1c1a034b0a565219e0292c8cfe1bfce35945476465eee",
     "purpose": "cast:karim"
+  },
+  {
+    "path": "faces/cast/kirsi/1.jpg",
+    "sha256": "93642b990545b40cedbce6411fdeef913e987cd1248b76bc01fb525b12404669",
+    "purpose": "cast:kirsi"
+  },
+  {
+    "path": "faces/cast/kirsi/2.jpg",
+    "sha256": "4c8b453160232cdfafef0f934960fd3d5a7f96d57acfd3757d8553b3951dd22d",
+    "purpose": "cast:kirsi"
+  },
+  {
+    "path": "faces/cast/kirsi/3.jpg",
+    "sha256": "89e4bbb88b2ac26380c6531158df5ec12b0fa780b2831b1d5cd557e4df31cff8",
+    "purpose": "cast:kirsi"
   },
   {
     "path": "faces/cast/lasse/1.jpg",
@@ -368,6 +428,21 @@
     "path": "faces/cast/lotta/3.jpg",
     "sha256": "8ee8faf6865513ffa0051caf797f7e196ad82e6c9060e6e2ca9c0dace8e40536",
     "purpose": "cast:lotta"
+  },
+  {
+    "path": "faces/cast/marja/1.jpg",
+    "sha256": "08db8ecbdf1ebf3d354fe613966db688001cb032e9842d366de20ef753c93c9d",
+    "purpose": "cast:marja"
+  },
+  {
+    "path": "faces/cast/marja/2.jpg",
+    "sha256": "3cf3c5e428f177b5e4b83045703e8a643277ef224d9a8d0ef0d7700410323a5f",
+    "purpose": "cast:marja"
+  },
+  {
+    "path": "faces/cast/marja/3.jpg",
+    "sha256": "78e3096c89b7f3d141e992ad31c573f6048f4be8b1075ed0eb30ee883b87c296",
+    "purpose": "cast:marja"
   },
   {
     "path": "faces/cast/markku/1.jpg",
@@ -700,6 +775,21 @@
     "purpose": "cast:timo"
   },
   {
+    "path": "faces/cast/toivo/1.jpg",
+    "sha256": "6f018f78d2b4ed3da87954cac7ad293b24f20ba41417f3ecdc2e33d7257a31c2",
+    "purpose": "cast:toivo"
+  },
+  {
+    "path": "faces/cast/toivo/2.jpg",
+    "sha256": "062bcb2447f2e63423e717e8b396f01b345d219ef596e556cea03ce78da78afa",
+    "purpose": "cast:toivo"
+  },
+  {
+    "path": "faces/cast/toivo/3.jpg",
+    "sha256": "5e106fa1a2399f9bd8d0fd39bc6fec92771a9b20fcf48b749f97e47ea6c3ad1d",
+    "purpose": "cast:toivo"
+  },
+  {
     "path": "faces/cast/tuomas/1.jpg",
     "sha256": "2102523a551cd35c0f03c1409c8a15e7814761e9d09f25d6cee704ab2837d784",
     "purpose": "cast:tuomas"
@@ -713,6 +803,36 @@
     "path": "faces/cast/tuomas/3.jpg",
     "sha256": "7d6bd2283b14b6c1dc057c797202f4e0fe5f836cfb238fc4f18519ee76e32981",
     "purpose": "cast:tuomas"
+  },
+  {
+    "path": "faces/cast/ulla/1.jpg",
+    "sha256": "2d76ae5080df7dc618d8417111987c79c4064c41a044930f4b9d018a08d50922",
+    "purpose": "cast:ulla"
+  },
+  {
+    "path": "faces/cast/ulla/2.jpg",
+    "sha256": "77ff7a82fb6f448fa103eca2503c59d9b684baae7d91dced02572f2957e7b11c",
+    "purpose": "cast:ulla"
+  },
+  {
+    "path": "faces/cast/ulla/3.jpg",
+    "sha256": "fe17cd2d1f74798ff660cb56ca5c8adec109cfadb830d04f9c86686c25f7c024",
+    "purpose": "cast:ulla"
+  },
+  {
+    "path": "faces/cast/veikko/1.jpg",
+    "sha256": "9eca1a72d17596457ac2cb63d225819956c68a2d5d9555b5cf2962eb46a02e05",
+    "purpose": "cast:veikko"
+  },
+  {
+    "path": "faces/cast/veikko/2.jpg",
+    "sha256": "deb2089a1aa3538267aa1da85c814aa713074a078eea47d37f285743023c60fe",
+    "purpose": "cast:veikko"
+  },
+  {
+    "path": "faces/cast/veikko/3.jpg",
+    "sha256": "86f085f362aa97413288d1f07f217d1e9561a1858b15a12c00331e36d7fb3fa6",
+    "purpose": "cast:veikko"
   },
   {
     "path": "faces/cast/yasmin/1.jpg",
@@ -743,6 +863,21 @@
     "path": "faces/cast/yusuf/3.jpg",
     "sha256": "bfb3f6f423ee178d6d2415ae4b4a11c309f7ab4d4968d6c262356047cfa80591",
     "purpose": "cast:yusuf"
+  },
+  {
+    "path": "faces/helmi/1.jpg",
+    "sha256": "9afa3bfa8ef1417fb2ee97785844074008d32615246cddb3beb5907f0f1d933d",
+    "purpose": "persona:helmi"
+  },
+  {
+    "path": "faces/helmi/2.jpg",
+    "sha256": "a00813faa8d89813192181355f646de2f4edef94237412b5f4b97a152c57a49e",
+    "purpose": "persona:helmi"
+  },
+  {
+    "path": "faces/helmi/3.jpg",
+    "sha256": "f1a244259e413a11684dcbca982daa6696487073b6a161348743457d4dc3415a",
+    "purpose": "persona:helmi"
   },
   {
     "path": "faces/henna/1.jpg",
@@ -928,6 +1063,31 @@
     "path": "faces/sanna/5.jpg",
     "sha256": "f9605f7285fdee653fbdc716ecac812b610f4e37b72872ad2982bbd5c6461823",
     "purpose": "persona:sanna"
+  },
+  {
+    "path": "faces/sofia/1.jpg",
+    "sha256": "b43c781d0339227bbab1500a0b7023863a39449666adbe0225b4af7170da4743",
+    "purpose": "persona:sofia"
+  },
+  {
+    "path": "faces/sofia/2.jpg",
+    "sha256": "9fe8d9f8c43d0dd624631f0e5582b452d07e3f15907a1047e77bb5516cc40006",
+    "purpose": "persona:sofia"
+  },
+  {
+    "path": "faces/sofia/3.jpg",
+    "sha256": "e410a6f25c7669f8f8da272b1acdc321b950a5a454ff72015f7ccbef582de9fc",
+    "purpose": "persona:sofia"
+  },
+  {
+    "path": "faces/sofia/4.jpg",
+    "sha256": "88fe798499ccf8b7761e513283a0f7fe33abb7d937f530582c59e91734d9ec5f",
+    "purpose": "persona:sofia"
+  },
+  {
+    "path": "faces/sofia/5.jpg",
+    "sha256": "61b8948fce9da9ba18dd0d3d37a4ea2e63473c66dab687f85053d785bbeef1f3",
+    "purpose": "persona:sofia"
   },
   {
     "path": "faces/tapio/1.jpg",
